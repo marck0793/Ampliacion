@@ -19621,6 +19621,7 @@
 							"visibility": "public"
 						}
 					]
+<<<<<<< HEAD
 				},
 				{
 					"_type": "UMLActivity",
@@ -38147,6 +38148,8 @@
 						}
 					],
 					"visibility": "public"
+=======
+>>>>>>> origin/master
 				}
 			],
 			"visibility": "public"
